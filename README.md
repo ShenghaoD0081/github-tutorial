@@ -16,7 +16,7 @@ _by Shenghao Dong_
 
 ---
 ## Repository Setup
-> - For your repo set-up you want to make a file first using mkdir DirectoryName  
+> - For your repo set-up you want to make a file first using mkdir DirectoryName in your [IDE](ide.cs50.io)  
 > - Then you want to make a repo over at [GitHub](github.com) with the EXACT same name   
 > - Go in the directory you just made by using cd   
 > - Then you can git init the Directory you get made (or you can do it later)   
