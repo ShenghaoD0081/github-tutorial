@@ -35,9 +35,9 @@ _by Shenghao Dong_
 > - _cd_: Changes the directory you are in.
 > - _touch_: Make a file. I mean a directory is useless without files.
 > - _c9_: Moves you inside a file. You do want to edit the file right?
-> - 
-> - 
-> - 
+> - _git add_: Adds directory and files inside it to the staging area so you can commit it.
+> - _git commit_: commits the stuff you just added to staging area after you commit it you cna push it
+> - _git push_: Pushes the directory and the files on GitHub 
 > - 
 > - 
 > - 
