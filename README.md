@@ -33,7 +33,7 @@ _by Shenghao Dong_
 ---
 ## Workflow & Commands
 > - _git init_: initializes the directory. You **MUST** do this before using git add. You also **MUST** be in a directory to do this.
-> - _mkdir_: Makes a directory. Pretty simple right? I mean you can't do anything without a directory.
+> - _mkdir directory-name_: Makes a directory. Pretty simple right? I mean you can't do anything without a directory.
 > - _cd filename_: Changes the directory you are in.
 > - _touch filename_: Make a file. I mean a directory is useless without files.
 > - _c9 filename_: Moves you inside a file. You do want to edit the file right?
