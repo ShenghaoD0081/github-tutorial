@@ -16,8 +16,8 @@ _by Shenghao Dong_
 
 ---
 ## Repository Setup
-> - For your repo set-up you want to make a file first using _mkdir DirectoryName_ in your [IDE](ide.cs50.io)  
-> - Then you want to make a repo over at [GitHub](github.com) with the EXACT same name   
+> - For your repo set-up you want to make a file first using _mkdir DirectoryName_ in your [IDE](https://ide.cs50.io/)  
+> - Then you want to make a repo over at [GitHub](https://github.com/) with the EXACT same name   
 > - Go in the directory you just made by using cd   
 > - Then you can _git init_ the Directory you get made (or you can do it later)   
 > - Then use _touch README.md_ to make a read me   
