@@ -10,7 +10,7 @@ _by Shenghao Dong_
 
 ---
 ## Initial Setup
-> - Make a account for [GitHub](https://www.github.com)  
+> - Make a account for [GitHub](https://github.com/)  
 > - Then you want to set up your IDE. Here's a [tutorial](https://docs.google.com/presentation/d/1t3isDyU7pL84iU5s0UehTuGxhPMFC3Obs38xudrd49o/edit)
 
 
