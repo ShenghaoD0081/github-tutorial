@@ -24,7 +24,9 @@ _by Shenghao Dong_
 > - After that you can _c9 README.md_ and editied to your hearts content   
 > - _git add FileName_ everytime you add anything, in this case we are editing README.md. **MAKE SURE YOU _GIT INIT_ BEFORE DOING THIS**   
 > - After you add it to the staging area you want to commit it   
-> - You can do this by doing _git commit -m "Insert Message"_   
+> - You can do this by doing _git commit -m "Insert Message"_ 
+> - Use _git remote add origin git@github.com:YourUsername/repo-name.git_ to connect it to your github repo.
+> - Use _git push -u origin master_ so you can start pushing
 > - Bam! Your done. If you want other people to see this or have a copy saved online, you can use git push to push it to your repository on [GitHub](Github.com)   
 
 
@@ -36,8 +38,10 @@ _by Shenghao Dong_
 > - _touch filename_: Make a file. I mean a directory is useless without files.
 > - _c9 filename_: Moves you inside a file. You do want to edit the file right?
 > - _git add filename_: Adds directory and files inside it to the staging area so you can commit it.
-> - _git commit -m "message"_: commits the stuff you just added to staging area after you commit it you cna push it
-> - _git push_: Pushes the directory and the files on GitHub 
+> - _git commit -m "message"_: commits the stuff you just added to staging area after you commit it you can push it
+> - _git remote add origin git@github.com:YourUsername/repo-name.git_: Adds the git repo to the directory on your IDE
+> - _git push -u origin master_: Makes it so you can push your files to github aftewards
+> - _git push_: Pushes the directory and the files on GitHub. MUST Use 2 commands above first
 
 
 ```css
